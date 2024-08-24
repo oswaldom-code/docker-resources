@@ -1,6 +1,6 @@
 
 # Configuración de VPN con WireGuard y Pi-hole
-![Banner](https://github.com/oswaldom-code/docker-resources/docker/vpn/assets/banner.png)
+![Banner](https://github.com/oswaldom-code/docker-resources/blob/main/docker/vpn/assets/banner.png)
 El este `docker-compose.yml` configuramos una VPN utilizando [WireGuard](https://www.wireguard.com/) para el tunelado seguro y [Pi-hole](https://pi-hole.net/) como un bloqueador de anuncios a nivel de red. Esta configuración permite proteger tu privacidad mientras navegas y bloquea anuncios no deseados.
 
 
