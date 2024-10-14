@@ -1,6 +1,6 @@
-# docker-playground
+# docker-resources
 
-![Docker Playground](https://miro.medium.com/max/1400/0*7I8k9B9jEXz6t70c.png)
+![Docker Resources](https://miro.medium.com/max/1400/0*7I8k9B9jEXz6t70c.png)
 
 > Un espacio dedicado a todo lo relacionado con Docker: desde plantillas y scripts hasta ejemplos prácticos y configuraciones personalizadas. Este repositorio es tu compañero ideal para dominar Docker y optimizar tus proyectos.
 
